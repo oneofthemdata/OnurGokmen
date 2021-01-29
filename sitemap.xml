@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/</loc>
+    <lastmod>2021-01-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/post/</loc>
+    <lastmod>2021-01-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/post/mysql-python/</loc>
+    <lastmod>2021-01-20T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/post/location-analysis/</loc>
+    <lastmod>2021-01-19T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/post/netflix-viewing-activity/</loc>
+    <lastmod>2021-01-18T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/post/python-programs/</loc>
+    <lastmod>2021-01-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/tags/scene/</loc>
+    <lastmod>2021-01-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/tags/</loc>
+    <lastmod>2021-01-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/post/machine-learning/</loc>
+    <lastmod>2021-01-01T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneofthemdata.github.io/onurgokmen/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

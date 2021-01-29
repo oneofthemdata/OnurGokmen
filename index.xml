@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onur Gokmen on Home</title>
+    <link>https://oneofthemdata.github.io/onurgokmen/</link>
+    <description>Recent content in Onur Gokmen on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://oneofthemdata.github.io/onurgokmen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL Connection to Python and Creating DB with Scraping IMDB</title>
+      <link>https://oneofthemdata.github.io/onurgokmen/post/mysql-python/</link>
+      <pubDate>Wed, 20 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://oneofthemdata.github.io/onurgokmen/post/mysql-python/</guid>
+      <description>MySQL Connection to Python and Creating DB with Scraping Top 250 Movies Page on IMDB  Scrap the page with BeautifulSoup and insert the data into Database Making queries on MySQL Workbench Making queries with Pandas package on Python Load MySQL database tables into Pandas dataframe EDA and visualization with Matplotlib  Web Scraping Using BeautifulSoup package to scrape top 250 movies and got the following:
+ Movie ID Movie Title Release Year Run Time Genre Rating Director and Actors Votes Gross  Data Cleaning After scraping the data, it needed to clean up so that it was usable for our model.</description>
+    </item>
+    
+    <item>
+      <title>Finding Optimal Location for Auto Mechanic in Maryland</title>
+      <link>https://oneofthemdata.github.io/onurgokmen/post/location-analysis/</link>
+      <pubDate>Tue, 19 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://oneofthemdata.github.io/onurgokmen/post/location-analysis/</guid>
+      <description>Finding Optimal Location for Auto Mechanic in Maryland Project aims to find optimize location for car mechanic shop in the State of Maryland using EDA and visualize with Folium map.
+Introduction: Business Problem In this project our goal is to find most favorable location for a car mechanic shop in Maryland, USA. This report will be compatible with shareholders needs.
+In accordance with shareholders request, we will find the best location which will be close to close to cities but not close range to any of competition.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing and Visualizing Personal Netflix Viewing Activity</title>
+      <link>https://oneofthemdata.github.io/onurgokmen/post/netflix-viewing-activity/</link>
+      <pubDate>Mon, 18 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://oneofthemdata.github.io/onurgokmen/post/netflix-viewing-activity/</guid>
+      <description>Netflix’s Personal Viewing History Data can be downloaded on your Account Page as CVS format. I used this data to analyze my viewing history:
+ Data was raw so I cleaned up the data so it was usable for analyzing. Start Time and Duration columns stored as a object, which means they are strings. We use to_datetime() function to convert values in Start Time column. Time stored as UTC time zone.</description>
+    </item>
+    
+    <item>
+      <title>Python Programs</title>
+      <link>https://oneofthemdata.github.io/onurgokmen/post/python-programs/</link>
+      <pubDate>Tue, 12 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://oneofthemdata.github.io/onurgokmen/post/python-programs/</guid>
+      <description>Random Password Generator</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Project</title>
+      <link>https://oneofthemdata.github.io/onurgokmen/post/machine-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://oneofthemdata.github.io/onurgokmen/post/machine-learning/</guid>
+      <description>to be continued..</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://oneofthemdata.github.io/onurgokmen/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oneofthemdata.github.io/onurgokmen/contact/</guid>
+      <description>Let&amp;rsquo;s get social..
+         LinkedIn Profile: https://www.linkedin.com/in/onurgokmen   GitHub Profile: https://github.com/oneofthemdata    </description>
+    </item>
+    
+  </channel>
+</rss>
